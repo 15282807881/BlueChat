@@ -47,7 +47,6 @@
                 android:layout_height="match_parent">
         </ListView>
     </LinearLayout>
-
     <Button
             android:id="@+id/button_scan"
             android:layout_width="match_parent"
