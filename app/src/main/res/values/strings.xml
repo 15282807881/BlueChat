@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">test</string>
+    <string name="app_name">BlueChat</string>
     <string name="action_settings">Settings</string>
     <string name="not_connected">未连接</string>
     <string name="none_paired">未配对</string>
