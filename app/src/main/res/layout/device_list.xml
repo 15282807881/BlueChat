@@ -40,6 +40,7 @@
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent">
+
         </ListView>
         <ListView
                 android:id="@+id/new_devices"
